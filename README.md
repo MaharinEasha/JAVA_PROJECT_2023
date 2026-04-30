@@ -1,20 +1,22 @@
-\# Java Project - 3rd Semester
+# Java Management System
 
+## Description
+This project is a Java-based management system developed as part of academic coursework. It includes multiple modules for handling users and system operations.
 
+## Features
+- Admin module for system control
+- Customer management system
+- User authentication (login system)
 
-\## Features
+## Technologies Used
+- Java (OOP)
 
-\- Admin module
+## Project Structure
+- Admin/
+- Customer/
+- loginframe/
+- Classes/
 
-\- Customer management
-
-\- Login system
-
-
-
-\## How to run
-
-1\. Open project in IDE (IntelliJ / Eclipse / NetBeans)
-
-2\. Run Start.java
-
+## How to Run
+1. Open in IDE (IntelliJ / Eclipse / NetBeans)
+2. Run Start.java
